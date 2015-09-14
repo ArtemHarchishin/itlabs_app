@@ -1,0 +1,31 @@
+.example-navbar {
+    margin: 20px;
+}
+
+.carousel {
+    margin-top: 20px;
+}
+
+.carousel .item img {
+    margin: 0 auto;
+}
+
+.example-carousel {
+    margin: 20px;
+}
+
+.demo-content {
+    padding: 15px;
+    font-size: 18px;
+    min-height: 300px;
+    background: #dbdfe5;
+    margin-bottom: 10px;
+}
+
+.demo-content.bg-alt {
+    background: #abb1b8;
+}
+
+.demo-content.bg-alt2 {
+    background: #70767d;
+}
